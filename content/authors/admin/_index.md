@@ -33,6 +33,8 @@ education:
   - course: masters, mathematics (part time)
     institution: birkbeck, university of london
     year: 2015 - 2017
+  - course: PGCE Mathematics
+    institution: Canterbury Christ Church University
   - course: bachelors, mathematics
     institution: university of warwick
     year: 2006 - 2009
