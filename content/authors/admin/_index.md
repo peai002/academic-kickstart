@@ -72,6 +72,6 @@ email: ""
 #- Visitors
 ---
 
-currently working on a phd in cybersecurity at the information security group, university of london. supervised by liz quaglia.
+currently working on a phd in cybersecurity at the information security group, royal holloway (university of london). supervised by liz quaglia.
 
 pictured left: author (foreground), research mascot (plant, background).
